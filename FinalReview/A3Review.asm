@@ -36,7 +36,8 @@ loop:
 	
 	; * delay 0.5 second *
 	
-	; number --;
+	; number --;
+
 	dec number
 	rjmp loop
 
